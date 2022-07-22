@@ -25,9 +25,9 @@
   --button-destructive-active: #fa4a4a !important;
 }
 .theme-light {
-  --accent-color: #22c5fd !important;
-  --background-1: #ffffff !important;
-  --background-2: #f5f7fa !important;
+  --accent-color: #89b4fa !important;
+  --background-1: #1e1e2e !important;
+  --background-2: #1e1e2e !important;
   --border-color: transparent !important;
   --background-mentioned: #22c5fd10 !important;
   --background-mentioned-hover: #22c5fd15 !important;
